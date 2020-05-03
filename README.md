@@ -1,2 +1,6 @@
-# Lab-3
-Code and report from lab 3
+# Laboratorium nr 3
+### - Iteracyjne metody rozwiązywania równań nie liniowych
+**Zawartość:**
+- Kod 
+- Raport
+
